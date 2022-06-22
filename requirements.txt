@@ -38,7 +38,7 @@ matplotlib==3.3.0
 monotonic==1.5
 mplfinance==0.12.6a3
 netifaces==0.10.4
-numpy==1.19.0
+numpy==1.22.0
 oauthlib==3.1.0
 olefile==0.46
 pandas==1.0.5
